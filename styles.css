@@ -27,6 +27,11 @@ body {
     background-color: #222; /* Darken container background */
 }
 
+.container h1 {
+    color: #fff; /* Set heading color to white */
+    margin-bottom: 20px; /* Add some space below the heading */
+}
+
 .container form {
     width: 100%;
     display: flex;

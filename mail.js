@@ -1,13 +1,13 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCgYbnH_e1SfH7dYbvbc4ol2vkzktEUxbQ",
-    authDomain: "pallavi-project-1cefc.firebaseapp.com",
-    databaseURL: "https://pallavi-project-1cefc-default-rtdb.firebaseio.com",
-    projectId: "pallavi-project-1cefc",
-    storageBucket: "pallavi-project-1cefc.appspot.com",
-    messagingSenderId: "473217124983",
-    appId: "1:473217124983:web:02686905032d2084d2d472",
-    measurementId: "G-0NRR3XS484"
-    };
+  apiKey: "AIzaSyAud3Kp1d8hFlMDDfVgUtZKwSC-R9tqTP8",
+  authDomain: "student-registration-2024.firebaseapp.com",
+  databaseURL: "https://student-registration-2024-default-rtdb.firebaseio.com",
+  projectId: "student-registration-2024",
+  storageBucket: "student-registration-2024.appspot.com",
+  messagingSenderId: "1092080538776",
+  appId: "1:1092080538776:web:f3d45f65f9804e7e282ced",
+  measurementId: "G-MBSCVXMVBH"
+};
     // initialize firebase
     firebase.initializeApp(firebaseConfig);
     // Declaring variables
